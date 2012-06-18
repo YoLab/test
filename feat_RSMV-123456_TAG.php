@@ -5,4 +5,5 @@ echo "New modification to test push, pull, merge ....";
 #JB indeed !
 #VB new
 #VB test commit pull push sort
+#Testing auto login while commiting
 ?>
