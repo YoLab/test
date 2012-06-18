@@ -3,5 +3,6 @@ echo echo "I'm the feature described by the task RSMV-123456 and I've modified o
 echo "New modification to test push, pull, merge ....";
 #RGI test
 #JB indeed !
+#VB new
 #Testing auto login while commiting
 ?>
