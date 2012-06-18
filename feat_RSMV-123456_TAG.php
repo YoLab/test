@@ -4,4 +4,5 @@ echo "New modification to test push, pull, merge ....";
 #RGI test
 #JB indeed !
 #VB new
+#VB test commit pull push sort
 ?>
