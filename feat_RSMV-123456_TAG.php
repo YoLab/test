@@ -8,4 +8,5 @@ echo "New modification to test push, pull, merge ....";
 #Testing auto login while commiting
 #VB commit post release
 echo "included from feat_RSMV-x_test1";
+echo "new branch test --n -ff"
 ?>
